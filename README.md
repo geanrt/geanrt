@@ -6,4 +6,4 @@
 - 💬 As 'bibliotecas' que uso são muitas, vão de Bs4 a React, indo até ferramentas linux...
 - 📦 Com isso procuro formas de otimizar serviços, principalmente de e-commerce!!
 
-!["Um astronauta"](img/stronauta.png)
+!["Um astronauta"](img/wall-e.jpg)!["Um astronauta"](img/wall-ee.jpg)
