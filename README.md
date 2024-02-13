@@ -50,7 +50,7 @@
 </a>
 <!--  <-- <a href="https://twitter.com/ritikhere307"> -->
 <!--  <img src="https://img.shields.io/badge/-ritikhere307-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ritikhere307"/> -->
-<!-- </a> --> -->
+<!-- </a> -->
 </p>
 
 
