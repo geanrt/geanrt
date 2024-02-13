@@ -1,1 +1,1 @@
-!["Perfil em criação"]('./assets/MANUNTAÇÃO PROFILE VIDEO.mp4')
+![Perfil em criação](./maintenance_profile_video.gif)
