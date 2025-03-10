@@ -28,6 +28,7 @@
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
 <!-- <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/> -->
 <!-- <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/> -->
+ 
 <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
@@ -35,6 +36,7 @@
 <img src="https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=next.js"/>
 <img src="https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=TailwindCSS"/>
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/Golang-FFFFFF?style=flat-square&logo=go&logoColor=0077B5"/>
 <!-- <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/> -->
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
