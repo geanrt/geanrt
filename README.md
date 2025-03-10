@@ -21,22 +21,30 @@
 <h2 align="center">Technology Stack <img src="https://github.com/geanrt/geanrt/blob/main/images/laptop.gif" width="50"></h2>
 
 <p align="center">
+ <img src="https://img.shields.io/badge/Golang-FFFFFF?style=flat-square&logo=go&logoColor=0077B5"/>
+ <img src="https://img.shields.io/badge/-C++-blue?logo=cplusplus"/>
+ <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&"/>
+ <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square"/>
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+ 
+ <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+ <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
+ <img src="https://img.shields.io/badge/-React-00bcd4?logo=react&logoColor=&labelColor=black"/>
+<img src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=TailwindCSS"/>
 <!--  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/> -->
 <!-- <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/> -->
 <!-- <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/> -->
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=orange&labelColor=black&color=black"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=blue&labelColor=black&color=black"/>
 <!-- <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/> -->
 <!-- <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/> -->
  
-<img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript"/>
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=TailwindCSS"/>
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
-<img src="https://img.shields.io/badge/Golang-FFFFFF?style=flat-square&logo=go&logoColor=0077B5"/>
+
+
+
+
+
 <!-- <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/> -->
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
