@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=next.js"/>
+<img src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=TailwindCSS"/>
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
 <img src="https://img.shields.io/badge/Golang-FFFFFF?style=flat-square&logo=go&logoColor=0077B5"/>
