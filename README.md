@@ -1,7 +1,7 @@
 <div align="center">
 
 # GEAN RT
-### Software Engineer • Full Web • AI Specialist
+### Software Engineer • AI Specialist
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-black?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gean.rtall.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
@@ -9,7 +9,7 @@
 
 <br />
 
-> "Experience liftoff with next-generation full web solutions."
+> "Experience liftoff with next-generation web solutions."
 
 <br />
 
@@ -24,9 +24,9 @@
 
 ### 🚀 About Me
 
-Engenheiro de Software com especialização em sistemas e Inteligência Artificial voltada à otimização de CRM. Focado em escalabilidade, performance e experiência do desenvolvedor (DX).
+Software Engineer specializing in systems and Artificial Intelligence focused on CRM optimization. Focused on scalability, performance, and developer experience (DX).
 
-- 🌍 Based in **Brasil**
+- 🌍 Based in **Brazil**
 - 🛠️ Currently building **high-performance Chrome Extensions** and **CRM systems**
 - 🧠 Deeply interested in **Multi-threading**, **System Architecture**, and **AI Integration**
 - ⚡ Fun fact: I love building tools that make other developers' lives easier.
@@ -55,9 +55,9 @@ Engenheiro de Software com especialização em sistemas e Inteligência Artifici
 
 | Project | Description | Link |
 | :--- | :--- | :--- |
-| **chrome-extension-tools** | Simplificando o bundle de extensões do Chrome. | [View](https://github.com/geanrt/chrome-extension-tools) |
-| **whyapp-frontend** | Front-end robusto para comunicação em tempo real. | [View](https://github.com/geanrt/whyapp-frontend) |
-| **wa-js** | Exportando o poder do WhatsApp Web via API. | [View](https://github.com/geanrt/wa-js) |
+| **chrome-extension-tools** | Simplifying Chrome extension bundling. | [View](https://github.com/geanrt/chrome-extension-tools) |
+| **whyapp-frontend** | Robust front-end for real-time communication. | [View](https://github.com/geanrt/whyapp-frontend) |
+| **wa-js** | Exporting the power of WhatsApp Web via API. | [View](https://github.com/geanrt/wa-js) |
 
 </div>
 
