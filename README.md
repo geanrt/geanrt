@@ -1,6 +1,7 @@
 <div align="center">
 
 # GEAN RT
+
 ### Software Engineer • AI Specialist
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-black?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gean.rtall.com.br)
@@ -37,13 +38,13 @@ Software Engineer specializing in systems and Artificial Intelligence focused on
 
 <div align="left">
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | `Go`, `C++`, `Python`, `TypeScript`, `JavaScript` |
-| **Frontend** | `React`, `Next.js`, `Tailwind CSS`, `Framer Motion` |
-| **Backend** | `Node.js`, `NestJS`, `Express` |
-| **Database** | `MongoDB`, `PostgreSQL`, `Redis` |
-| **Tools** | `Docker`, `Git`, `Chrome Extensions API`, `CI/CD` |
+| Category      | Technologies                                        |
+| :------------ | :-------------------------------------------------- |
+| **Languages** | `Go`, `C++`, `Python`, `TypeScript`, `JavaScript`   |
+| **Frontend**  | `React`, `Next.js`, `Tailwind CSS`, `Framer Motion` |
+| **Backend**   | `Node.js`, `NestJS`, `Express`                      |
+| **Database**  | `MongoDB`, `PostgreSQL`, `Redis`                    |
+| **Tools**     | `Docker`, `Git`, `Chrome Extensions API`, `CI/CD`   |
 
 </div>
 
@@ -55,11 +56,27 @@ Software Engineer specializing in systems and Artificial Intelligence focused on
 
 | Project | Description | Link |
 | :--- | :--- | :--- |
-| **Building..** | Simplifying Chrome extension bundling. | [View](https://github.com/geanrt/chrome-extension-tools) |
-| **whyapp-frontend** | Robust front-end for real-time communication. | [View](https://github.com/geanrt/whyapp-frontend) |
-| **wa-js** | Exporting the power of WhatsApp Web via API. | [View](https://github.com/geanrt/wa-js) |
+| **Building...** | bundling... | [View](https://github.com/geanrt/building...) |
 
 </div>-->
+
+---
+
+### 🌐 Languages
+
+I am proficient in English, enabling seamless collaboration in international environments:
+- 🗣️ **Speak** fluent English
+- 💬 **Communicate** effectively for work
+- 📖 **Read** technical documentation and specs
+- ✍️ **Write** professional documentation and emails
+
+<br />
+
+### 📬 Get in Touch
+
+I'm always open to new opportunities and collaborations.
+- 📧 Email: [gean@rtall.com.br](mailto:gean@rtall.com.br)
+- 🌐 Website: [gean.rtall.com.br](https://gean.rtall.com.br)
 
 <br />
 
@@ -88,3 +105,4 @@ Software Engineer specializing in systems and Artificial Intelligence focused on
 **[gean.rtall.com.br](https://gean.rtall.com.br)**
 
 </div>
+
