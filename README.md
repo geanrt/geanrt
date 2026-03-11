@@ -49,17 +49,17 @@ Software Engineer specializing in systems and Artificial Intelligence focused on
 
 <br />
 
-### 📦 Featured Repositories
+<!--### 📦 Featured Repositories
 
 <div align="center">
 
 | Project | Description | Link |
 | :--- | :--- | :--- |
-| **chrome-extension-tools** | Simplifying Chrome extension bundling. | [View](https://github.com/geanrt/chrome-extension-tools) |
+| **Building..** | Simplifying Chrome extension bundling. | [View](https://github.com/geanrt/chrome-extension-tools) |
 | **whyapp-frontend** | Robust front-end for real-time communication. | [View](https://github.com/geanrt/whyapp-frontend) |
 | **wa-js** | Exporting the power of WhatsApp Web via API. | [View](https://github.com/geanrt/wa-js) |
 
-</div>
+</div>-->
 
 <br />
 
